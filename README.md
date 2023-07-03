@@ -17,5 +17,8 @@ Note: "e^{∆E/T}" == $`e^{∆E/T}`$
 
 Note: In pseudocode, the delta symbol (∆) is used to represent the change in a variable or the difference between two values. In this case: ∆E refers to the difference in energy between the current state and the next state. It is calculated as the difference between the value of the current state and the value of the next state.
 
+ - T is the simulated temperature at time _t_, which reduces from a high value at the beginning to near zero eventually.
+ - ΔE is the change in energy going from current to next.
+
 
 Ref: 4.1 - 115
